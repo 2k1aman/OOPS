@@ -1,0 +1,8 @@
+types of inheritance
+a) single level a->b
+b) multilevel a->b->c->d
+c) multiple inheritance a->c and b->c
+ syntax of multiple inheritance :
+ class derived_class_name : access specifier base_class_name1 , access specifier base_class_name2
+d) heirarchial inheritance - one class is base class for more than one class
+e) hybrid inheritance : combination of more than one inheritance
